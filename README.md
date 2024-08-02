@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://www.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669459.htm#fromView=search&page=1&position=1&uuid=dac51c88-67a2-47d5-a81a-904011ef1722"  />
+  <img height="500" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1722579162~exp=1722582762~hmac=8931a97d2362cdb69e8f1bc916dc2f33a4085ae6ada043f06ea088a41b863da2&w=1380"  />
 </div>
 
 ###
