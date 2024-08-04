@@ -1,32 +1,27 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?t=st=1722579162~exp=1722582762~hmac=8931a97d2362cdb69e8f1bc916dc2f33a4085ae6ada043f06ea088a41b863da2&w=1380"  />
+  <img height="450" src="https://img.freepik.com/free-photo/team-programmers-talking-about-algorithm-running-laptop-screen-pointing-source-code-while-sitting-desk-software-developers-collaborating-data-coding-group-project_482257-33548.jpg?t=st=1722580141~exp=1722583741~hmac=8d69eaf0c82d24411a2998d569f2d311af004260dcec6335a99a23c12ed9a6e7&w=1380"  />
 </div>
 
 ###
 
-<br clear="both">
+<h1 align="center">Hello There !! 👋</h1>
+
+###
 
 <div align="center">
-  <a href="https://web.facebook.com/bintanxmv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://www.hackerrank.com/profile/bintangsatriamu2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.instagram.com/bintanxmv/" target="_blank">
+  <a href="https://www.instagram.com/bintanxamv/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <a href="https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fbintanxmv&e=AT25R2f68VJYa1CMBn6NZ9Re3yX05TTYIg_rcYdcDQcWV4OkLJILfM4I6S5a8lp4Y9Ux4SW5VMqkYqAloJ0TbWnt48Mxds2602ZguRo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
   <a href="https://www.linkedin.com/in/bintangsatriamulya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/23227790/bintang-satria-mulya-budi" target="_blank">
+  <a href="https://stackoverflow.com/users/25746135/bintang-satria-mulya-budi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCJI2ESenJD2rk29FY-aGFSQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
 </div>
 
@@ -38,11 +33,11 @@
 
 ###
 
-<h1 align="center">Hello There 👋</h1>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">I'm Bintang Satria Mulya Budi from Malang East Java Indonesia, you can call me Bintang.I'm a studen from SMK Telkom Malang and I'm passionate about learning new things, especially in the world of technology. I'm currently focusing on expanding my knowledge of mobile development with Kotlin, Flutter, and Dart.<br><br>- 🔭 I’m working as student at SMK Telkom Malang<br>- 📚 I'm currently learning Kotlin, Flutter and Dart, Editing<br>- ⚡ In my free time, I enjoy editing and coding.<br>- 😄 Pronouns: He/Him<br>- ✉️ bintangsatriamulya88@gmail.com</p>
 
 ###
 
@@ -55,11 +50,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
 
 ###
@@ -68,21 +67,11 @@
 
 ###
 
-<p align="left">Hi! I'm Bintang Satria Mulya Budi from Malang, East Java, Indonesia. I'm a studen from SMK Telkom Malang and I'm passionate about learning new things, especially in the world of technology. I'm currently focusing on expanding my knowledge of mobile development with Kotlin, Flutter, and Dart. In addition to coding, I also enjoy editing.<br><br>Feel free to reach out if you have any questions or want to connect!<br><br>- 🔭 I’m working as student at SMK Telkom Malang<br>- 📚 I'm currently learning Kotlin, Flutter and Dart, Editing<br>- ⚡ In my free time,  I enjoy editing and coding.<br>- 😄 Pronouns: He/Him</p>
-
-###
-
-<br clear="both">
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bintanxmv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=bintanxmv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bintanxmv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bintanxmv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=bintanxmv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=bintanxmv&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bintanxmv/bintanxmv/output/snake.svg" alt="Snake animation" />
 
 ###
