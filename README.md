@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://img.freepik.com/free-photo/team-programmers-talking-about-algorithm-running-laptop-screen-pointing-source-code-while-sitting-desk-software-developers-collaborating-data-coding-group-project_482257-33548.jpg?t=st=1722580141~exp=1722583741~hmac=8d69eaf0c82d24411a2998d569f2d311af004260dcec6335a99a23c12ed9a6e7&w=1380"  />
+  <img height="450" src="https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?t=st=1722741798~exp=1722745398~hmac=95c0852c82fdb20c6923718d20aa519d5d37becb0323b96e5f75e29883ee18a0&w=1380"  />
 </div>
 
 ###
